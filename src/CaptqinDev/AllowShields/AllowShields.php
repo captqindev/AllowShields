@@ -2,10 +2,10 @@
 
 declare(strict_types = 1);
 
-namespace captqindev\AllowShields;
+namespace CaptqinDev\AllowShields;
 
-use captqindev\AllowShields\item\Shield as ShieldItem;
-use captqindev\AllowShields\sound\ShieldBlockSound;
+use CaptqinDev\AllowShields\item\Shield as ShieldItem;
+use CaptqinDev\AllowShields\sound\ShieldBlockSound;
 
 use pocketmine\data\bedrock\item\ItemTypeNames;
 use pocketmine\data\bedrock\item\SavedItemData;
