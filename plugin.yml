@@ -1,5 +1,5 @@
 ---
-main: captqindev\AllowShields\AllowShields
+main: CaptqinDev\AllowShields\AllowShields
 name: AllowShields
 version: 1.0.0-Release
 author: captqindev
